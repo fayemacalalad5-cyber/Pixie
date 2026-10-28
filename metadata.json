@@ -1,0 +1,6 @@
+{
+  "name": "PIXIE – Colorful Educational Adventure",
+  "description": "Interactive child-friendly educational games for Kindergarten, Grade 1, and Grade 2 across English, Mathematics, Science, and Good Habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
